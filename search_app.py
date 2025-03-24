@@ -18,7 +18,7 @@ arxiv=ArxivQueryRun(api_wrapper=api_wrapper_arxiv)
 search=DuckDuckGoSearchRun(name="Search")
 
 
-st.title("Search Engine with LangChain")
+st.title("Search Engine with LangChain by Arjun")
 
 """Streamlit call back handler to display thoughts and actions"""
 
