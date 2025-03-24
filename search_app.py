@@ -8,7 +8,6 @@ import os
 from dotenv import load_dotenv
 import warnings
 
-###
 api_wrapper_wiki=WikipediaAPIWrapper(top_k_results=1,doc_content_chars_max=250)
 wiki=WikipediaQueryRun(api_wrapper=api_wrapper_wiki)
 
