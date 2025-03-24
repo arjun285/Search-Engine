@@ -35,3 +35,4 @@ unstructured
 numexpr
 huggingface_hub
 gradio
+duckduckgo-search
